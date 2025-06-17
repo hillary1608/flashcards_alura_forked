@@ -19,52 +19,52 @@ criaCartao(
 
 criaCartao(
     'Hale',
-    'quem thalia hale'
-    'casa eichen'
+    'quem thalia hale',
+    'irmã de derek'
 )
 
 criaCartao(
     'Ancora',
-    'quem era a ancora de scott'
+    'quem era a ancora de scott',
     'alisson'
 
 )
     criaCartao(
     'Alpha',
-    'quem era o alpha da primeira temporada'
+    'quem era o alpha da primeira temporada',
     'peter'
 
 )
     criaCartao(
     'Kanima',
-    'oque o kanima faz com a garras'
+    'oque o kanima faz com a garras',
     'paralisa as pessoas'
 
 
 )
     criaCartao(
     'Charada',
-    'quando uma porta não e uma porta'
+    'quando uma porta não e uma porta',
     'ela esta estre aberta'
 
 
 )
     criaCartao(
     'Charada',
-    'todo mundo tem mais ninguem perde'
+    'todo mundo tem mais ninguem perde',
     'a sombra'
 
 
 )
     criaCartao(
     'Familia',
-    'quem colocou fogo na casa da familia hale'
+    'quem colocou fogo na casa da familia hale',
     'kate argent'
 
 )
     criaCartao(
     'Temporada',
-    'qual foi a ultima temporada de alisson'
+    'qual foi a ultima temporada de alisson',
     '3 temporada'
 
 
@@ -73,6 +73,6 @@ criaCartao(
 )
     criaCartao(
     'Lider',
-    'quem era o lider da alcateia de alphas'
+    'quem era o lider da alcateia de alphas',
     'deucalião'
 )
